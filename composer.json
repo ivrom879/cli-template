@@ -1,0 +1,10 @@
+{
+    "name": "ivrom/cli-template",
+    "authors": [
+        {
+            "name": "ivrom879",
+            "email": "ivrom879@yandex.ru"
+        }
+    ],
+    "require": {}
+}
