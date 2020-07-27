@@ -13,6 +13,6 @@ if (file_exists($autoloadPath1)) {
 echo 'what is your name?: ';
 $name = trim(fgets(STDIN));
 
-$user = new Php\Package\User($name);
+$user = new Cli\Template\User($name);
 
 var_dump($user);
