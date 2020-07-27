@@ -1,9 +1,9 @@
 <?php
 
-namespace Php\Package\Tests;
+namespace Cli\Template\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Php\Package\User;
+use Cli\Template\User;
 
 class UserTest extends TestCase
 {

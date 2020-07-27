@@ -1,6 +1,6 @@
 <?php
 
-namespace Php\Package;
+namespace Cli\Template;
 
 /* use Illuminate\Support\Collection; */
 
