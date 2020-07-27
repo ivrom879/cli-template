@@ -2,7 +2,7 @@ install:
 	composer install
 
 console:
-	composer exec psysh
+	./vendor/bin/psysh
 
 lint:
 	composer exec phpcs -- --standard=PSR12 src tests
