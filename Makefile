@@ -5,10 +5,10 @@ console:
 	./vendor/bin/psysh
 
 lint:
-	composer exec phpcs -- --standard=PSR12 src tests
+	./vendor/bin/phpcs -- --standard=PSR12 src tests
 
 lint-fix:
-	composer exec phpcbf -- --standard=PSR12 src tests
+	./vendor/bin/phpcbf -- --standard=PSR12 src tests
 
 test:
 	composer test
