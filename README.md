@@ -13,7 +13,7 @@ Use <http://psysh.org/>
 ## Setup
 
 ```sh
-$ git clone https://github.com/hexlet-boilerplates/php-package.git
+$ git clone https://github.com/ivrom879/cli-template.git
 
 $ make install
 ```
